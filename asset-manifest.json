@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.js": "/step-up/static/js/main.fb4fff1d.js",
+    "main.js": "/step-up/static/js/main.6ed218fd.js",
     "static/media/lesson.png": "/step-up/static/media/lesson.4cdb13f0b30a9d641342.png",
     "index.html": "/step-up/index.html",
-    "main.fb4fff1d.js.map": "/step-up/static/js/main.fb4fff1d.js.map"
+    "main.6ed218fd.js.map": "/step-up/static/js/main.6ed218fd.js.map"
   },
   "entrypoints": [
-    "static/js/main.fb4fff1d.js"
+    "static/js/main.6ed218fd.js"
   ]
 }
